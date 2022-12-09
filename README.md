@@ -1,8 +1,10 @@
 # FSJS Course | HTML & CSS Project #17
+Projects Navigator
+| [Shopify Clone](https://github.com/sub1120/shopify-clone) | [Paytm Clone](https://github.com/sub1120/paytm-clone)  | [Road Clone](https://github.com/sub1120/road-clone) |
+| :----: | :----: | :----: | 
 
 ## Shopify Home Page Clone : [Deployed Link](https://fastidious-madeleine-98053c.netlify.app/)
 ![Screenshot 2022-08-27 at 01-42-54 Start and Grow Your e-commerce](https://user-images.githubusercontent.com/43786036/186983813-5578cf34-294f-4715-8a6c-30a9e76873ea.png)
-
 
 ## Highlights
 - By Subham Sahu
